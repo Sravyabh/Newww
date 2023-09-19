@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    color: whitesmoke;
+}
+.Foot{
+    display: flex;
+    list-style-type:none;
+    
+}
+.Foot li{
+       margin-right: 1px; 
+      border-right: 1px solid white;
+     padding-right: 1px;
+}
